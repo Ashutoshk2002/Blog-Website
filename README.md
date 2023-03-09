@@ -4,7 +4,7 @@
 
 ***Hosted on Render.com : https://blogexp.onrender.com***
 
-***To _Compose Blog_ go on https://blogexp.onrender.com/compose/ ***
+To _Compose Blog_ go on https://blogexp.onrender.com/compose/
 
 
 
